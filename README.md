@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Computer Science student with a love for Systems, Web Development, and AI/ML Adventures.</h3>
 
 ## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardodipitt) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_chetan_2112) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-mahipal-774780253/) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChetaNMahipaL) 
 
