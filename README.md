@@ -17,10 +17,6 @@ Full-stack developer but more interested in backend development
 
 My focus is on understanding how machines can learn, adapt, and understand our complex world. I'm also keenly interested in the math that makes it all happen.
 
-### Science + Code: Bridging Disciplines 
-
-Bringing computer science to life, I like to delv into subjects where technology intersects with diverse fields. Currently, I'm working on a project that involve the fusion of particle physics, quantum computing, and machine learning (exploring ways to enable the Large Hadron Collider (LHC) to make quantum measurements).
-
 ### Low-Level Craftsmanship: Crafting Elegant Code
 
 Delving into the intricacies of systems programming, operating systems, and low-level nuances, I find joy in working at the granular level to enhance code efficiency.
